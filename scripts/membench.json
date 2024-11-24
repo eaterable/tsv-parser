@@ -1,26 +1,26 @@
 [
   {
     "label": "TSV.parse",
-    "duration": 405.418185,
+    "duration": 411.7168379999998,
     "checksum": 6,
-    "heapUsed": 13744168,
-    "rss": 1232896,
+    "heapUsed": 13746176,
+    "rss": 1396736,
     "external": 38995
   },
   {
     "label": "TSV.headers + TSV.rows",
-    "duration": 383.405178,
+    "duration": 401.0821390000001,
     "checksum": 6,
-    "heapUsed": 13540048,
-    "rss": 606208,
+    "heapUsed": 13450288,
+    "rss": 630784,
     "external": 0
   },
   {
     "label": "String.split (Naive)",
-    "duration": 868.2799210000003,
+    "duration": 819.8124139999991,
     "checksum": 6,
-    "heapUsed": 413741560,
-    "rss": 412090368,
+    "heapUsed": 413761592,
+    "rss": 411471872,
     "external": 0
   }
 ]
