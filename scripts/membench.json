@@ -1,0 +1,26 @@
+[
+  {
+    "label": "TSV.parse",
+    "duration": 405.418185,
+    "checksum": 6,
+    "heapUsed": 13744168,
+    "rss": 1232896,
+    "external": 38995
+  },
+  {
+    "label": "TSV.headers + TSV.rows",
+    "duration": 383.405178,
+    "checksum": 6,
+    "heapUsed": 13540048,
+    "rss": 606208,
+    "external": 0
+  },
+  {
+    "label": "String.split (Naive)",
+    "duration": 868.2799210000003,
+    "checksum": 6,
+    "heapUsed": 413741560,
+    "rss": 412090368,
+    "external": 0
+  }
+]
